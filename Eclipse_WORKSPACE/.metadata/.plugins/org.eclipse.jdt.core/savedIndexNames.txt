@@ -1,0 +1,9 @@
+INDEX VERSION 1.130+D:\TVET_nug_notes\2_Java\Eclipse_WORKSPACE\.metadata\.plugins\org.eclipse.jdt.core
+3048885576.index
+4118514180.index
+1973378934.index
+1818320769.index
+2247722580.index
+1018030315.index
+1366606653.index
+3873077516.index

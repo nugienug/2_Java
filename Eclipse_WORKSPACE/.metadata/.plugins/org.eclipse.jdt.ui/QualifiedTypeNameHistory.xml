@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="java.util.AbstractMap.SimpleImmutableEntry"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="com.javacourse.StudentClass"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.iot.device.AirConditioner"/>
+<fullyQualifiedTypeName name="com.phone.SmartPhone"/>
+<fullyQualifiedTypeName name="com.phone.IphoneX"/>
+<fullyQualifiedTypeName name="com.animal.Animal"/>
+<fullyQualifiedTypeName name="com.instructor.Instructor"/>
+<fullyQualifiedTypeName name="com.vehicle.Vehicle"/>
+<fullyQualifiedTypeName name="com.vehicle.Bike"/>
+<fullyQualifiedTypeName name="java.lang.OutOfMemoryError"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="com.animal.Dog"/>
+<fullyQualifiedTypeName name="com.person.Person"/>
+<fullyQualifiedTypeName name="com.device.Device"/>
+<fullyQualifiedTypeName name="com.device.TV"/>
+<fullyQualifiedTypeName name="com.seveneleven.SevenEleven"/>
+<fullyQualifiedTypeName name="com.seveneleven.Person"/>
+<fullyQualifiedTypeName name="com.device.AirConditioner"/>
+<fullyQualifiedTypeName name="com.carFactory.KiaCarFactory"/>
+<fullyQualifiedTypeName name="com.carFactory.CarFactory"/>
+<fullyQualifiedTypeName name="com.test.Engineer"/>
+<fullyQualifiedTypeName name="com.animal.Cat"/>
+<fullyQualifiedTypeName name="com.java.inheritance.Creature"/>
+<fullyQualifiedTypeName name="com.java.anonymous.MainClass"/>
+<fullyQualifiedTypeName name="com.java.anonymous.DetailAnonymous"/>
+<fullyQualifiedTypeName name="com.java.anonymous.Anonymous"/>
+<fullyQualifiedTypeName name="com.java.anonymous.MainClassAnimal"/>
+<fullyQualifiedTypeName name="com.java.inheritance.Animal"/>
+<fullyQualifiedTypeName name="com.java.anonymous.Animal"/>
+<fullyQualifiedTypeName name="com.java.anonymous.Dog"/>
+<fullyQualifiedTypeName name="com.java.nestedclass.MainClass"/>
+<fullyQualifiedTypeName name="com.java.nestedclass.OuterClass"/>
+<fullyQualifiedTypeName name="com.java.nestedclass.OuterClass.InnerClass"/>
+</qualifiedTypeNameHistroy>
